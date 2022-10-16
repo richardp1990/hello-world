@@ -1,4 +1,10 @@
 <form action="action_page.php">
+  <div class="topnav">
+   <a class="active" href="#home">Home</a>
+   <a href="#news">News</a>
+   <a href="#contact">Contact</a>
+   <a href="#about">About</a>
+ </div>
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
